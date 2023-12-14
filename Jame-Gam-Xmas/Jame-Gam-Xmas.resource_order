@@ -18,6 +18,7 @@
   ],
   "ResourceOrderSettings": [
     {"name":"Santa___Stand6","order":7,"path":"sprites/Santa___Stand6/Santa___Stand6.yy",},
+    {"name":"Santa___Stand67","order":8,"path":"sprites/Santa___Stand67/Santa___Stand67.yy",},
     {"name":"Santa___Death","order":5,"path":"sprites/Santa___Death/Santa___Death.yy",},
     {"name":"Santa___Stand","order":6,"path":"sprites/Santa___Stand/Santa___Stand.yy",},
     {"name":"Santa___Run","order":1,"path":"sprites/Santa___Run/Santa___Run.yy",},

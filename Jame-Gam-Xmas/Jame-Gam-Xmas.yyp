@@ -36,6 +36,7 @@
   "resources": [
     {"id":{"name":"Santa___Stand6","path":"sprites/Santa___Stand6/Santa___Stand6.yy",},},
     {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},},
+    {"id":{"name":"Santa___Stand67","path":"sprites/Santa___Stand67/Santa___Stand67.yy",},},
     {"id":{"name":"Santa___Death","path":"sprites/Santa___Death/Santa___Death.yy",},},
     {"id":{"name":"Santa___Stand","path":"sprites/Santa___Stand/Santa___Stand.yy",},},
     {"id":{"name":"Santa___Run","path":"sprites/Santa___Run/Santa___Run.yy",},},
