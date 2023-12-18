@@ -18,6 +18,7 @@
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
     {"name":"Monsters","order":12,"path":"folders/Sprites/Monsters.yy",},
+    {"name":"Envoronment","order":13,"path":"folders/Sprites/Envoronment.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"_2","order":2,"path":"sprites/_2/_2.yy",},
