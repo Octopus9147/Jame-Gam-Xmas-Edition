@@ -1,0 +1,1 @@
+Ob_Santa.player_health -= 1;
